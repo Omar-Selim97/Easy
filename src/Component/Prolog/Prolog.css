@@ -2,7 +2,9 @@
     background-color: #fff;
     min-height: 850px !important;
 }
-
+.pg .f button {
+    margin-top: -50px;
+}
 .pg .wrapper h1 {
     color: blueviolet !important;
     margin-top: 0px;
