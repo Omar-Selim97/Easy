@@ -1,0 +1,17 @@
+.pg {
+    background-color: #fff;
+    min-height: 850px !important;
+}
+
+.pg .wrapper h1 {
+    color: blueviolet !important;
+    margin-top: 0px;
+}
+
+.img img {
+    min-width: 150px;
+}
+
+.txt {
+    margin-top: 180px;
+}
